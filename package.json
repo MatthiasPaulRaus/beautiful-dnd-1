@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gh-pages": "^5.0.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "@types/uuid": "^9.0.1"
+    "@types/uuid": "^9.0.1",
+    "gh-pages": "^5.0.0"
   }
 }
