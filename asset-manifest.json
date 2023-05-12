@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beautiful-dnd-1/static/css/main.934d63f7.css",
+    "main.js": "/beautiful-dnd-1/static/js/main.2e5ecfe3.js",
+    "index.html": "/beautiful-dnd-1/index.html",
+    "main.934d63f7.css.map": "/beautiful-dnd-1/static/css/main.934d63f7.css.map",
+    "main.2e5ecfe3.js.map": "/beautiful-dnd-1/static/js/main.2e5ecfe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934d63f7.css",
+    "static/js/main.2e5ecfe3.js"
+  ]
+}
